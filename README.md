@@ -47,8 +47,6 @@ TAVILY_API_KEY="YOUR_KEY"
 
 ### Directory Structure
 ```
-project/
-├── starter/
 │   ├── games/           # JSON files with game data
 │   ├── lib/             # Custom library implementations
 │   │   ├── llm.py       # LLM abstractions
